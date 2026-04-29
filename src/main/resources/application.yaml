@@ -1,3 +1,4 @@
 spring:
   application:
     name: demo
+    secret: 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
